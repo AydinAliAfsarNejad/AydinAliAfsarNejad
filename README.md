@@ -1,4 +1,4 @@
-Title: Backend-Focused Full Stack Developer
+#Title: Backend-Focused Full Stack Developer
 
 Headline: Building robust web backends with Django, Express.js & Python, while crafting efficient frontends with Tailwind CSS and vanilla JavaScript.
 
